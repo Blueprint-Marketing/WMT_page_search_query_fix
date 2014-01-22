@@ -1,5 +1,4 @@
-
-//expand page entries to display search queries
+//expand page entries
 
 (function(){
 
@@ -17,7 +16,7 @@
 
 
 
-//generate download link for TSV for page, query, num clicks
+//generate download link
 
 (function(){
 
